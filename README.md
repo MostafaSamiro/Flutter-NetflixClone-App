@@ -96,6 +96,6 @@ Explore the NetflixClone app with these screenshots:
 
 ![Screenshot 42](42.jpg)
 ![Screenshot 43](43.jpg)
-![Screenshot 44](47.jpg)
+![Screenshot 44](44.jpg)
 
 
